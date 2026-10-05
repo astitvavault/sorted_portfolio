@@ -11,7 +11,7 @@ A minimal, modern, and polished product landing page for the **Sorted** Android 
 * **Core Capabilities Section**: 6 clean, verified feature cards strictly based on actual app functionality.
 * **How to Install on Android**: 3-step friction-free guide for downloading and installing APKs on Android devices.
 * **Download Section**: Final high-converting CTA linking directly to `/download/app-release.apk` with APK specifications (v1.0.0, Android 8.0+, 100% Free) and future Google Play Store hook.
-* **Privacy & Legal Modal**: Built-in zero-tracking offline-first privacy statement.
+* **Privacy & Legal Modal**: Built-in zero-tracking privacy policy and data protection statement.
 
 ---
 

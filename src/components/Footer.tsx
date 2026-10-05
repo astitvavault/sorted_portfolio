@@ -124,10 +124,10 @@ export const Footer: React.FC = () => {
 
             <div className="space-y-3 text-xs sm:text-sm text-zinc-300 leading-relaxed">
               <p>
-                <strong>Zero Data Collection:</strong> Sorted is engineered as an offline-first mobile application. We do not collect, store, track, sell, or transmit any personal information, tasks, or device analytics.
+                <strong>Privacy First:</strong> Sorted is engineered with user privacy at its core. We do not sell, track, or harvest your personal information, tasks, or device analytics.
               </p>
               <p>
-                <strong>Local Storage Only:</strong> All tasks, calendar schedules, reminders, and progress records remain stored locally on your device in secure local storage.
+                <strong>Data Protection:</strong> All your tasks, schedules, reminders, and progress records are securely handled and kept strictly under your control.
               </p>
               <p>
                 <strong>No Third-Party Trackers:</strong> Sorted does not contain third-party advertising SDKs, tracking pixels, or background data profiling.

@@ -55,10 +55,10 @@ const features: Feature[] = [
   },
   {
     icon: ShieldCheck,
-    badge: "Architecture",
-    title: "100% Offline & Private",
+    badge: "Privacy",
+    title: "Private & Distraction-Free",
     description:
-      "Built with high-performance Flutter. Works seamlessly without an internet connection, storing data locally on your device.",
+      "Built with high-performance Flutter. Pure productivity with zero third-party trackers, no invasive advertising, and a clean, focused experience.",
   },
 ];
 
